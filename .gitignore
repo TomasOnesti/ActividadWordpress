@@ -1,0 +1,9 @@
+/*
+
+!wp-content/
+!wp-content/themes/your-custom-theme/
+!wp-content/plugins/your-custom-plugin/
+!composer.json
+!composer.lock
+!README.md
+!.gitignore
