@@ -1,9 +1,3 @@
 /*
 
 !wp-content/
-!wp-content/themes/twentytwentyfour/
-!wp-content/plugins/
-!composer.json
-!composer.lock
-!README.md
-!.gitignore
