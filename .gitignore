@@ -1,8 +1,8 @@
 /*
 
 !wp-content/
-!wp-content/themes/your-custom-theme/
-!wp-content/plugins/your-custom-plugin/
+!wp-content/themes/twentytwentyfour/
+!wp-content/plugins/
 !composer.json
 !composer.lock
 !README.md
